@@ -34,6 +34,7 @@ This project presents a comprehensive Excel dashboard created to analyze sales d
 
 ![Dashboard Screenshot]
 (https://github.com/GauravPasi10423/Vrinda-Store-Sales-Dashboard/blob/main/Dashboard-Screenshot.png)
+(https://github.com/GauravPasi10423/Vrinda-Store-Sales-Dashboard/blob/main/Dashboard-Screenshot-filter.png)
 
 ## 📈 Use Case
 
